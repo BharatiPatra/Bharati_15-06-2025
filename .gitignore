@@ -1,0 +1,56 @@
+# Bytecode files
+__pycache__/
+*.py[cod]
+
+# Caches
+.ipynb_checkpoints/
+.python-version
+
+# Environments
+venv/
+.env/
+.env.local/
+.venv/
+ENV/
+venv.bak/
+venv.old/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg/
+*.wheel/
+*.tar.gz
+
+# Tests
+.pytest_cache/
+.tox/
+.nox/
+.cover/
+htmlcov/
+.coverage
+
+# Logs
+*.log
+logs/
+*.out
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Security
+*.pem
+*.crt
+*.key
+
+# Other
+*.sqlite
+*.db
+*.backup
